@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalAssetManagement", "Asset_management\DigitalAssetManagement.csproj", "{4728F92D-E5D8-47F9-BC82-3E728D476C24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalAssetMangement.Tests", "DigitalAssetMangement.Tests\DigitalAssetMangement.Tests.csproj", "{18E1E515-A97A-42E2-8C09-E66AC1EA7A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4728F92D-E5D8-47F9-BC82-3E728D476C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4728F92D-E5D8-47F9-BC82-3E728D476C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4728F92D-E5D8-47F9-BC82-3E728D476C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4728F92D-E5D8-47F9-BC82-3E728D476C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E1E515-A97A-42E2-8C09-E66AC1EA7A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E1E515-A97A-42E2-8C09-E66AC1EA7A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E1E515-A97A-42E2-8C09-E66AC1EA7A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E1E515-A97A-42E2-8C09-E66AC1EA7A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C9726F-6200-477F-A9C1-A8A7DB644E9F}
+	EndGlobalSection
+EndGlobal
